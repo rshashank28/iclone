@@ -1,0 +1,160 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.nav{
+    background-color: rgb(20,22,29);
+    height: 44px;
+    display: flex;
+    
+}
+.icon{
+    height: 12px;
+    color:rgb(240, 237, 237);
+    margin-left: 270px;
+ margin-top: 13px;
+   align-items: center;
+   font-size: 18px;
+   size: 10px;
+}
+.navlist {
+    
+    display: flex;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8px;
+    width: 900px;
+    height: 30px;
+}
+.navlist li{
+    color: rgb(186, 177, 177);
+    display: inline-block;
+    text-decoration: none;
+    margin:15px;
+    margin-bottom: -9px;
+    align-items: center;
+    justify-content: center;
+   
+}
+.search{
+    color: rgb(195, 189, 189);
+    
+    height: 10px;
+    width: 30px;
+    justify-content: center;
+    margin-top: 15px;
+}
+.bag{
+    color: rgb(204, 199, 199);
+    
+    height: 10px;
+    width: 30px;
+    justify-content: center;
+    margin-left: 50px;
+    align-items: center;
+    margin-top: 15px;
+}
+.main {
+    background-color: rgb(14, 14, 34);
+  
+   
+ 
+    color: rgb(240, 248, 248);
+    width: 100%;
+    min-height: 550px;
+    height: 50px;
+}
+
+.image{
+   margin-left: 480px;
+}
+.main .button{
+    margin-top: 50px;
+    margin-left: 630px;
+    
+}
+.text h1{
+    margin-top: 0px;
+    justify-content: center;
+    font-size:50px;
+    align-items: center;
+    margin-left: 490px;
+}
+.text h2{
+    margin-left: 420px;
+    font-size: 30px;
+    width: 550px;
+    height: 15px;
+}
+.text h3{
+    margin-left: 400px;
+    font-size: 28px;
+    
+    width: 700px;
+    height: 15px;
+}
+.button{
+   margin-top: 360px;
+   
+   
+    border-radius: 20px;
+    border-color: rgb(165, 165, 25);
+
+    border-width: 3px;
+    border-style:solid;
+    background-color: rgb(26, 25, 25);
+    width: 110px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+}
+.button p{
+    color: white;
+    text-align: center;
+    margin-top: 4px;
+}
+.image2{
+    background-repeat: inherit;
+    margin-left: 500px;
+}
+.shop {
+    margin-top: 10px;   
+    width: 100%;
+    height: 500px;
+background-color: black;
+margin-left: px;
+}
+  
+
+
+.shop2{
+    width: 100%;
+    height: 500px;
+    margin: 5px;
+    display: flex;
+}
+.img3{
+   width: 175px;
+    height: 450px;
+}
+   .img4{
+    width: 175px;
+    height: 750px;
+    margin-left: 500px;
+    margin-top: 10px;
+   }
+   .img5{
+    margin-top: 900px;
+    margin-left: 50px;
+   }
+   .last{
+    margin-top: 700px;
+    width: 100%;
+    margin-left: 90px;
+   }
